@@ -3,16 +3,16 @@ import './App.css'; // Import the updated CSS file
 
 const initialTasks = {
   unplanned: [
-    "Test Task 1",
-    "Test Task 2",
-    "Test Task 3",
-    "Test Task 4",
-    "Test Task 5",
-    "Test Task 6",
-    "Test Task 7",
-    "Test Task 8",
-    "Test Task 9",
-    "Test Task 10"
+    "Task 1",
+    "Task 2",
+    "Task 3",
+    "Task 4",
+    "Task 5",
+    "Task 6",
+    "Task 7",
+    "Task 8",
+    "Task 9",
+    "Task 10"
   ],
   today: [],
   tomorrow: [],
